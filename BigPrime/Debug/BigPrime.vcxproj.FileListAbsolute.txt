@@ -1,0 +1,2 @@
+C:\Users\zhangyi\Desktop\BigPrime\Debug\BigPrime.exe
+C:\Users\zhangyi\Desktop\BigPrime\Debug\BigPrime.pdb
